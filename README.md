@@ -5,9 +5,9 @@
 
 </div>
 
-- 📖 **I'm experienced at:** React, TypeScript, Node.js, Python, Java, JavaScript, HTML, CSS.
-- 💡 **I'm highly familiar with:** C#, .NET, SQL, Next.js, NestJS, Express, MongoDB, Kotlin.
-- 🌱 **I'm still learning:** ASP.NET Core, WebAssembly, Docker, Rust, Svelte.
+- 📖 **I'm experienced at:** React, TypeScript, .NET, C#, Node.js, Python, Java, JavaScript, HTML, CSS.
+- 💡 **I'm highly familiar with:** ASP.NET Core, Next.js, NestJS, Express, SQL, MongoDB.
+- 🌱 **I want to improve in:** WebAssembly, Docker, Rust, Svelte, Kotlin, Astro, Gleam.
 - 📫 **How to reach me:**
 <div align="center">
 
