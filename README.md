@@ -1,30 +1,22 @@
-### Hello 👋
 <div align="center">
 
-  <strong>[tchojnacki.dev](https://tchojnacki.dev/)</strong>
-  
-  <img width="32" src="https://cdn.simpleicons.org/react" />&nbsp;
-  <img width="32" src="https://cdn.simpleicons.org/dotnet" />&nbsp;
-  <img width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+  ## [**tchojnacki.dev**](https://tchojnacki.dev)
+
+  [<img width="24" src="https://cdn.simpleicons.org/react/2f81f7" alt="React" />](https://github.com/tchojnacki?tab=repositories)&nbsp;
+  [<img width="24" src="https://cdn.simpleicons.org/typescript/2f81f7" alt="TypeScript" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img width="24" src="https://cdn.simpleicons.org/dotnet/2f81f7" alt=".NET" />](https://github.com/tchojnacki?tab=repositories)&nbsp;
+  [<img width="24" src="https://cdn.simpleicons.org/csharp/2f81f7" alt="C#" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img width="24" src="https://cdn.simpleicons.org/rust/2f81f7" alt="Rust" />](https://github.com/tchojnacki?tab=repositories)
 
 </div>
 
+- 📖 **Known technologies:** React, TypeScript, ASP.NET, C#, Rust, Python, SQL, HTML, CSS
+- 🎓 **Research interests:** full stack web development, developer tooling, language and compiler design
+- 📐 **I build using:** OOP, SOLID, CQRS, TDD, Clean Architecture
+- 🌱 **I want to learn:** Elixir, Phoenix, Gleam, Ruby
 
-- 📖 **I'm highly familiar with:**
-  - **React:** Next.js, TypeScript, React Router, Testing Library, HTML, CSS, JS
-  - **.NET:** ASP.NET, MVC, C#, F#, Entity Framework, MediatR, xUnit
-  - **Node.js:** NestJS, TypeScript, Express, Jest, Lodash, Prisma
-  - Git, SQL, PostgreSQL, MongoDB, Swagger, GitHub Actions, Python, Java
-  - Data Structures and Algorithms, OOP, SOLID, CQRS
-- 🌱 **I want to learn/improve in:**
-  -  Rust, Kotlin, Elixir, Gleam, Ruby
-  -  Docker, WebAssembly, Svelte, Vue, Astro, Phoenix
-- ❓ **How to...**
-  - ...contact me - through LinkedIn, Discord or email
-  - ...see my resume - my current CV is accessible from my LinkedIn page
-- 📫 **How to reach me:**
 <div align="center">
 
-[![linkedin.com/in/tchojnacki](https://img.shields.io/badge/-linkedin.com%2Fin%2Ftchojnacki-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/tchojnacki) [![tomaszchojnacki2001@gmail.com](https://img.shields.io/badge/-tomaszchojnacki2001%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:contact@tchojnacki.dev) [![tchojnacki#5402](https://img.shields.io/badge/-tchojnacki%235402-555555?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com)
+[![linkedin.com/in/tchojnacki](https://img.shields.io/badge/-linkedin.com%2Fin%2Ftchojnacki-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/tchojnacki)&nbsp;&nbsp;&nbsp;[![tomaszchojnacki2001@gmail.com](https://img.shields.io/badge/-tomaszchojnacki2001%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:contact@tchojnacki.dev)&nbsp;&nbsp;&nbsp;[![tchojnacki#5402](https://img.shields.io/badge/-tchojnacki-555555?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com)
 
 </div>
