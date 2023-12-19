@@ -6,14 +6,17 @@
   [<img width="24" src="https://cdn.simpleicons.org/typescript/2f81f7" alt="TypeScript" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [<img width="24" src="https://cdn.simpleicons.org/dotnet/2f81f7" alt=".NET" />](https://github.com/tchojnacki?tab=repositories)&nbsp;
   [<img width="24" src="https://cdn.simpleicons.org/csharp/2f81f7" alt="C#" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img width="24" src="https://cdn.simpleicons.org/rust/2f81f7" alt="Rust" />](https://github.com/tchojnacki?tab=repositories)
+  [<img width="24" src="https://cdn.simpleicons.org/rust/2f81f7" alt="Rust" />](https://github.com/tchojnacki?tab=repositories)&nbsp;
+  [<img width="24" src="https://cdn.simpleicons.org/python/2f81f7" alt="Python" />](https://github.com/tchojnacki?tab=repositories)
 
 </div>
 
-- 📖 **Known technologies:** React, TypeScript, ASP.NET, C#, Rust, Python, SQL, HTML, CSS
+- 📖 **Known technologies:**
+  - **Front-end:** React, TypeScript, HTML, CSS, JS, Astro, Next.js, Testing Library
+  - **Back-end:** ASP.NET, C#, PostgreSQL, MongoDB, NestJS, Express
+  - **Other:** Rust, Python, Java, Git, Data Structures and Algorithms, OOP, SOLID
 - 🎓 **Research interests:** full stack web development, developer tooling, language and compiler design
-- 📐 **I build using:** OOP, SOLID, CQRS, TDD, Clean Architecture
-- 🌱 **I want to learn:** Elixir, Phoenix, Gleam, Ruby
+- 🌱 **I want to learn:** Elixir, Phoenix, Gleam, Haskell, Ruby
 
 <div align="center">
 
