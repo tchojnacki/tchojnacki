@@ -1,15 +1,15 @@
 <div align="center">
 
   ## [**tchojnacki.dev**](https://tchojnacki.dev)
-
-  [<img width="32" src="https://cdn.simpleicons.org/react/f58f29" alt="React" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;
-  [<img width="32" src="https://cdn.simpleicons.org/typescript/f58f29" alt="TypeScript" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;
-  [<img width="32" src="https://cdn.simpleicons.org/python/f58f29" alt="Python" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;
-  [<img width="32" src="https://cdn.simpleicons.org/rust/f58f29" alt="Rust" />](https://github.com/tchojnacki?tab=repositories)<br/>
-  <strong>[/in/tchojnacki](https://www.linkedin.com/in/tchojnacki)</strong>
+  <strong>[linkedin.com/in/tchojnacki](https://www.linkedin.com/in/tchojnacki)</strong>
+  
+  [<img width="32" src="https://cdn.simpleicons.org/react/4493f8" alt="React" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;
+  [<img width="32" src="https://cdn.simpleicons.org/typescript/4493f8" alt="TypeScript" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;
+  [<img width="32" src="https://cdn.simpleicons.org/python/4493f8" alt="Python" />](https://github.com/tchojnacki?tab=repositories)&nbsp;&nbsp;
+  [<img width="32" src="https://cdn.simpleicons.org/rust/4493f8" alt="Rust" />](https://github.com/tchojnacki?tab=repositories)<br/>
 
 </div>
 
 <p align="justify">
-I&nbsp;am a&nbsp;software engineer with strong front-end expertise in modern web technologies, particularly <strong>React</strong> and <strong>TypeScript</strong>, complemented by experience in <strong>Python</strong>, <strong>Rust</strong>, Node.js, machine learning, databases, and DevOps. I&nbsp;hold both a&nbsp;BSc and an&nbsp;MSc degree in <strong>Applied Computer Science</strong> with a&nbsp;specialization in Software Engineering from <strong>Wrocław University of Science and Technology</strong>, where I&nbsp;graduated with top honors and was actively involved in scientific research. During my internship at <strong>Atlassian</strong>, I&nbsp;contributed to Jira's Forge platform by shipping production features, fixing bugs, and improving internal monitoring. My experience spans the design and development of a&nbsp;wide range of personal, academic, and real-world software systems.
+I'm a&nbsp;graduate software engineer with a&nbsp;strong focus on front-end development in <strong>React and TypeScript</strong>, backed by full-stack experience in Python, Rust, Node.js, databases, DevOps, and AI. I&nbsp;hold both a&nbsp;bachelor's and a&nbsp;<strong>master's degree in applied computer science</strong> from Wrocław University of Science and Technology, where I&nbsp;graduated top of my class and conducted scientific research. During my internship at <strong>Atlassian</strong>, I&nbsp;shipped production features to Jira, helping improve an app used by 300&#8239;000 teams worldwide. As a&nbsp;<strong>freelance developer</strong>, I&nbsp;collaborated directly with clients to design, build, and deploy websites that attract over 1&#8239;000 monthly users.
 </p>
